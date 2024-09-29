@@ -121,7 +121,7 @@ The server will start on `http://localhost:3000`.
   {
     "id": "1694801234567",
     "guestName": "John Doe",
-    "roomNumber": 101",
+    "roomNumber": "101",
     "requestDetails": "Need extra towels and toiletries",
     "priority": 1,
     "status": "received"
