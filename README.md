@@ -189,6 +189,6 @@ The server will start on `http://localhost:3000`.
 
 ## Contact
 
-For any questions or feedback, reach out to [tech@calry.app](mailto:tech@calry.app).
+For any questions or feedback, reach out to [kasaremihir2004@gmail.com](kasaremihir2004@gmail.com).
 
 We look forward to your contributions!
